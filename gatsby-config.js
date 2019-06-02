@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Doğan Işık Köşe Yazıları`,
     author: `Doğan Işık`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Doğan Işık köşe yazıları.`,
+    siteUrl: `https://doganisik.netlify.com/`,
     social: {
       twitter: `doganisik35`,
     },
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Doğam Işık Köşe Yazıları`,
+        short_name: `DIKY`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
