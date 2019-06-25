@@ -31,5 +31,3 @@ Başmühendis Haruhiko Tanahashi, hızlı dünyaya yeni bir üye sunuyor. Otomob
 ![lexus-lfa-5](./lexus-lfa-5.jpg)
 
 ![lexus-lfa-6](./lexus-lfa-6.jpg)
-
-![lexus-lfa-7](./lexus-lfa-7.jpg)
