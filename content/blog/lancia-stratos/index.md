@@ -24,6 +24,6 @@ Sonuç olarak Pininfarina ve iki eski dost, Ferrari Scudera’yı parçalayarak 
 
 ![lancia-stratos-3](./lancia-stratos-3.jpg)
 
-![lancia-stratos-4](./lancia-stratos-4.jpg)
+![lancia-stratos-4](./lancia-stratos-4.JPG)
 
 ![lancia-stratos-5](./lancia-stratos-5.jpg)
