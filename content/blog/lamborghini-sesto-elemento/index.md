@@ -20,14 +20,14 @@ Sesto Elemento e-gear şanzımana sahip. İlk kez bir süperde kullanılan Dövm
 
 Sesto Elemento’daki dinamik özellikler ve tasarımdaki zarafet, süper otomobili benzersiz kılıyor. Konsept görünümün aynen üretime geçmesi mümkün veya değil, bunu zaman gösterecek.
 
-![lamborghini-sesto-elemento-1](./lamborghini-sesto-elemento-1.jpg)
+![sesto-elemento-1](./sesto-elemento-1.jpg)
 
-![lamborghini-sesto-elemento-2](./lamborghini-sesto-elemento-2.jpg)
+![sesto-elemento-2](./sesto-elemento-2.jpg)
 
-![lamborghini-sesto-elemento-3](./lamborghini-sesto-elemento-3.jpg)
+![sesto-elemento-3](./sesto-elemento-3.jpg)
 
-![lamborghini-sesto-elemento-4](./lamborghini-sesto-elemento-4.jpg)
+![sesto-elemento-4](./sesto-elemento-4.jpg)
 
-![lamborghini-sesto-elemento-5](./lamborghini-sesto-elemento-5.jpg)
+![sesto-elemento-5](./sesto-elemento-5.jpg)
 
-![lamborghini-sesto-elemento-6](./lamborghini-sesto-elemento-6.jpg)
+![sesto-elemento-6](./sesto-elemento-6.jpg)
