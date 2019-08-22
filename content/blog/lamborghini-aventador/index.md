@@ -16,12 +16,16 @@ Dört tekerlekten çekişli otomobil 7 ileri, sıralı, manuel şanzımanla sunu
 
 647.667 Euro’luk etiket fiyatı yeni otomobili rakipleri arasında cazip kılıyor. Yılda 700 adet üretimesi planlanan Aventador, hafif, hızlı, verimli ve kolay kullanılabilirlik avantajı ile Lamborghini’nin bayrağını dalgalandırmaya hak kazanıyor.
 
-![ccxr-1](./ccxr-1.jpg)
+![lamborghini-aventador-1](./lamborghini-aventador-1.jpg)
 
-![ccxr-2](./ccxr-2.jpg)
+![lamborghini-aventador-2](./lamborghini-aventador-2.jpg)
 
-![ccxr-3](./ccxr-3.jpg)
+![lamborghini-aventador-3](./lamborghini-aventador-3.jpg)
 
-![ccxr-4](./ccxr-4.jpg)
+![lamborghini-aventador-4](./lamborghini-aventador-4.jpeg)
 
-![ccxr-5](./ccxr-5.jpg)
+![lamborghini-aventador-5](./lamborghini-aventador-5.jpg)
+
+![lamborghini-aventador-6](./lamborghini-aventador-6.jpg)
+
+![lamborghini-aventador-7](./lamborghini-aventador-7.jpeg)
