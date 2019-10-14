@@ -4,7 +4,7 @@ date: "2019-06-02T20:32:00.169Z"
 description: Dört kişilik adrenalin
 ---
 
-## Dört kişilik adrenalin
+### Dört kişilik adrenalin
 
 Müşterilerden gelen ısrarlı talepler yeni segmentlerin oluşmasında belirleyici oluyor. Bir süper otomobili şehir içerisinde dört kişi ile birlikte rahatça kullanabilme arzusu Maranello’daki tasarımcıları yeni bir otomobile yöneltmiş. Geçtiğimiz senelerde dört kişilik süperlerle başlayan rekabet, bu kez Ferrari FF ile daha anlamlı hale gelmiş. Gerçi markanın dört kişilik kabini ile 612 Scaglietti’sini daha önceden tanımıştık. Ancak günlük kullanım ve pratik sürüş isteği radikal çizgili FF’in doğumuna yardımcı olmuş. Otomobilin geleneksel Ferrari çizgilerine aykırı fotoğrafı ilk bakışta BMW Z3 M Coupe’yi hatırlatıyor. Fakat işin içerisine dikkat unsuru girdiğinde inşadaki zarafet belirginleşiyor. Genel olarak bazı fanatikleri ikna etmek kolay olmayacak gibi görünüyor. Zira onlarca senenin alışkanlık yarattığı heyecan verici çizgilerin değişmesine alışmak kimileri için zaman alabilir. Tam burada otomobilin arka kısmındaki tasarımdan bahsetmek gerek. Dört kişiyi bagajlarıyla birlikte taşımak, taşırken de rahatlıktan ödün vermemek ihtiyacı bu formu ortaya çıkarmış. Neticede yeni otomobil önden arkaya tüm ayrıntılarındaki oranları ile mükemmel bir silüete sahip. Bir stationun ya da sedanın hacmine sahip olmasa da (yapısal olarak bu sınıfta beklenemez) dört kişinin konforlu yolculuk etmesi için yeterli yer sunumu sağlanmış. Arka koltukların gerektiğinde katlanabilmesi sayesinde bagaj için epeyce yer kazanılmış oluyor.
 

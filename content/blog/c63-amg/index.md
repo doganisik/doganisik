@@ -4,7 +4,7 @@ date: "2019-05-26T14:00:00.169Z"
 description: 40 SENELİK TECRÜBE VE … “ZİRVE”
 ---
 
-## 40 SENELİK TECRÜBE VE … “ZİRVE”
+### 40 SENELİK TECRÜBE VE … “ZİRVE”
 
 Bir performans otomobili ile sürücü arasındaki iletişim gerçekte tasarımcıların detaylara verdiği önem ve mühendislerin üretim esnasına gösterdiği özen sonunda ortaya çıkıyor. AMG mühendisleri önceki tecrübelerden “kalanlar” ile geleceğin teknolojisini bu otomobilde iyi harmanlamışlar. Markanın C sınıfında ürettiği kompresörlü V6 C32 ve daha sonra bu otomobilin yerini alan daha düşük performanslı C55 deneyimi Mercedes’in tuning bölümü AMG’yi, yeniden düşünmek durumunda bırakmış olmalı ki bu kez tüm sürüş bileşenleri bakımından müthiş bir otomobil yaratmışlar. En önemli rakip M3’ün teknik rakamları ile yapılan mukayesede AMG mühendislerinin kararlılığını görüyoruz. Otomobil yol tutuş, ilk kez sunulan üç modlu ESP sistemi, kabin içi kalitesi, direksiyon, dış görünüş ve performanstaki artıları ile mühendislerine şapka çıkarttırıyor. Daha fazlasını isteyenler Mercedes BRABUS veya LORINSER gibi pahalı tuning alternatiflere yönelebilir. Ancak, satış sonrası destek kolaylıkları, fiyat farkları ve ulaşılabilirlik hedef kitlenin tercihlerindeki kriterleri oluşturuyor.
 

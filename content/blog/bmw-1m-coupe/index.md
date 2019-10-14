@@ -4,7 +4,7 @@ date: "2019-06-02T20:53:00.169Z"
 description: Küçük boyuna rağmen M3’ü terletiyor
 ---
 
-## Küçük boyuna rağmen M3’ü terletiyor
+### Küçük boyuna rağmen M3’ü terletiyor
 
 Özel kapasitelerle donatılmış küçük ve kompakt bir M’in üretilip üretilmeyeceği ya da sınırlı sayıda yapılacağı gibi dedikodular geride kaldı. Öyle ki, kendi segmentindeki bir çok otomobile (Porsche Cayman R, Nissan 370Z GT Edition, Audi TT RS) gözdağı veren tasarım ve donanımı ile birlikte beliren 1M Coupe, çekici özellikleri ile yeni tavırlar sergiliyor. Boyutları itibariyle ateşli bir hot-hatch görüntüsü veren otomobil, rakiplerine kıyasla sürücüsüne daha sadık bir sürüş sunuyor. Porsche Cayman R, küçük kilosu, mükemmel yol tutuşu, kusursuz ve homojen yapısı ile 1 serisi M Coupe ile baş edebilecek seviyede. Ancak, BMW’nin pist testleri sonuçları, dört kişilik koltukları ve fiyat avantajı otomobili yeni referans noktalarına taşıyor. En az abisi 420 HP’lik M3 E92 Coupe kadar yakışıklı olan otomobil, düzgün oranları ile taze görünüyor. 40.000 sterlinlik etiket için ise pantolon ceplerinin fazla derin olmasına gerek yok. Ancak 40.000 sterlinlik fiyat donanıma bağlı olarak 45.340 sterline kadar çıkabiliyor.
 

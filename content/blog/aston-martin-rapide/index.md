@@ -4,7 +4,7 @@ date: "2019-05-31T21:32:00.169Z"
 description: Duygusal İngiliz
 ---
 
-## Duygusal İngiliz
+### Duygusal İngiliz
 
 Porsche Panamera Turbo, Maserati Quattroporte Sports GT S ve Bentley Continental Flying Spur Speed gibi süper dört kapılıların, artık yeni bir rakibi var. Aston Martin Rapide.  Yeni dört kapılı otomobil de Bentley gibi İngiliz mühendisliğinin ürünü. Ancak, kapıs ayısının artması otomobilin zarif görüntüsünden ve spor tasarım çizgilerinden hiçbir şey kaybettirmemiş. En azından Aston Martin DB9 veya DBS kadar heyecanlandırıcı bir resim veriyor. Seyreden gözleri etkisi altında bırakan Aston Martin Rapide, sürücüsünden ilk puanlarını sürüş dinamikleri ve rahatlığı ile alıyor.  Hatta, orta hattaki şanzıman tünelinin genişliğine rağmen arka koltuklar dar gibi hissedilse de alışıldığında dışarı çıkma arzusundan dahi vazgeçiliyor.  Diz mesafesi, ancak uzun boylular için rahatsızlık yaratabilir. Sürüş için son derece istekli görünen otomobilde önde aksın arkasına alüminyum şasiye uzunlamasına yerleştirilmiş 5935 cc hacminde , V12 motor bulunuyor. Silindir bloğu ve üst kapağı alüminyumdan imal edilmiş DOCH motor, silindir başına dört olmak üzere toplamda 48 sübablı. Çok noktadan enjeksiyonlu ve elektronik motor kontrolüne sahip makinanın gücü ise 6000 d/d’da 470 HP olarak veriliyor. Motorun torkuna baktığımızda da etkileyici bir rakamla karşılaşıyoruz. 5000 d/d’da  elde edilen çevirme gücü 600 Nm’lik rakamı gösteriyor.
 

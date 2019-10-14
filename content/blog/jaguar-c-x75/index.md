@@ -4,7 +4,7 @@ date: "2019-05-31T22:21:00.169Z"
 description: Gerçek mi, bilimkurgu mu?
 ---
 
-## Gerçek mi, bilimkurgu mu?
+### Gerçek mi, bilimkurgu mu?
 
 Hayalindeki rüyayı henüz görmeden gerçekleştirme şansını yakalayan biri varsa, kesinlikle Ian Callum’dan başkası olamaz. Callum, seneler önce bilimkurgu filmlerinde gördüğümüz otomobillere benzeyen ve gerçekte rastlamadığımız bir “harika” ile supercar takipçilerini büyülüyor. Markanın 75. yılı için hazırlanan C-X75, sadece iç gıcıklayan duygusal görüntüsü ile şaşırtmıyor. Otomobil, içsel yapısı açısından da geleceğin teknolojisini gözler önüne seriyor. C-X75’teki mühendisliğin geldiği nokta, daha önce rastlanan cinsten değil. Otomobilin kabininin arka tarafındaki motor bölümünde motor bulunmuyor. Alüminyumdan üretilmiş iki adet gaz türbini motor bölümüne yerleştirilmiş. Üçer kilogram ağırlığındaki jet türbinlerinin her biri 95 HP gücünde ve döndüklerinde 80.000 d/d’ya çıkıyorlar. Türbinin her biri direkt olarak kendi jenaratörüne bağlanmış. Son derece kompakt olan türbin ve jeneratör ağırlıklarının toplamı ise sadece 35 kg. geliyor. Jetlerde kullanılanlara kıyasla çok küçük olan gaz türbinlerinin sıkıştırma potansiyeli oldukça yüksek. Departman sorumlusu Tony Harper’e göre: Daha çok trafolarda kullanılan elektrik elde edici türbinlere benzeyen yapılanma, hafiflikleri nedeniyle jet uçaklarında kullanılan afterburner’lara benzemiyor. Otomobilin sürücüsü, “track” modunda elektrik motorlarını beslerken “normal” modda bataryaları şarj edebilmek için türbini devreye sokuyor. Select fonksiyonu ise arada seçim yapabilmek için kullanılıyor.
 

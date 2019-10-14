@@ -4,7 +4,7 @@ date: "2019-05-31T22:12:00.169Z"
 description: Altıncı element
 ---
 
-## Altıncı element
+### Altıncı element
 
 Süper otomobillerde kullanılan karbon malzemelerin dayanıklılığı, hafifliği ya da istenilen her biçime girilebilme özelliği tüm tasarımcıların ilgisini çekiyor. Kompozit malzemelerin paslanmazlığının ve sürtünmelere mukavemetinin yanı sıra, çevreci olmalarının avantajını daha önceki modellerde görmüştük. Son zamanlarda titanyumun da sıkça kullanıldığına şahit oluyoruz. Maliyetin eskiye kıyasla daha ehven (!) olması, ortaya çıkan otomobilin esnekliğine ve çevikliğine katkıda bulunuyor. Her türlü kıvrılma ve kalınlığa imkan veren fiber lifleri örülerek kumaş ya da daha sert madde olarak forma sokuluyor. Dördüncü element olarak adlandırılan karbon, şasinin veya gövdenin monokok formu için ideal çözüm sağlıyor. Özellikle PVC’den ayrıştırılan özel malzeme, son olarak Lamborghini Sesto Elemento’da daha da belirginleşmiş. Firma, Boeing ile yapılan ortak çalışma sonunda özel bir scanner geliştirmiş ki, herhangi bir kaza sonunda hasar gören malzeme taranıyor ve hasarlı malzemenin boyutları hesaplanarak yenisi ile değiştirilebiliyor.
 

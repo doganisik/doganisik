@@ -4,7 +4,7 @@ date: "2019-05-26T17:31:00.169Z"
 description: Bir ömür sonra yeniden
 ---
 
-## Bir ömür sonra yeniden
+### Bir ömür sonra yeniden
 
 İtalyan markanın tarihine bakıldığında 8C’nin Monza veya Le Mans 24 gibi kimi yarışlarda elde ettiği başarılar nedeniyle Alfa’ya kazandırdığı prestiji görüyoruz. Örneklemek gerekirse 1931 senesi İtalyan Grand Prix’inde ulaşılan birincilik ödülü ilk kayıt olarak karşımıza çıkıyor. Altın yıllar olarak gösterilen 1931’den 1938’e kadar sadece pistlerdeki başarılarıyla yetinmeyen Alfa Romeo 8C satın almaya gücü yetenleri caddelerde oyuncak olarak da kullandırdı. 1935 ve 36’da iki koltuklu spor model 8C 2900A kendi evindeki yarışlarda ilk üç sırayı paylaştı. Soffio di Satana (şeytanın nefesi)  adı verilen 8C 2900B ise 1938’deki Le Mans 24 saat yarışlarında yer aldı. O zamanlar için muhteşem sayılabilecek bir tasarıma sahip 8C 2900B savaşın başladığı ana dek sadece 50 adet üretilebilmişti. O sıralarda ortalıkta Ferrari görünmüyordu. Rosso corsa (ateş kırmızısı) adı verilen ve sonradan her iki otomobilde de kişiliğini bulan simge renk Ferrari’den önce sadece Alfa’nın gövdesinde parlıyordu. Ve otomobil 1930’lardaki ruhu ile tekrar canlandırıldı.
 

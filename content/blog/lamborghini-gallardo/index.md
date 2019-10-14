@@ -4,7 +4,7 @@ date: "2019-05-31T21:14:00.169Z"
 description: Yeşilin sakinliği!!!
 ---
 
-## Yeşilin sakinliği!!!
+### Yeşilin sakinliği!!!
 
 Enzo Ferrari’nin kendisi ile görüşme talep eden Ferrucio Lamborghini’yi red etmesi üzerinden tam 48 yıl geçti. O günden beri tüm Lamborghini çalışanları, mühendisinden test pilotuna kadar herkes, işin peşini bırakmıyorlar. Ürettikleri her modelin kesinlikle Ferrari ile mukayese edilmesini sağlıyorlar. Gerçi, yönetim dahil tüm çalışanlar Lamborghini’nin “farklı bir otomobil” olduğunu iddia etse de, dünya alem gerçek sebebin ne olduğunu onlarca senedir biliyor. Ve gelenek devam ediyor. Gallardo LP 570-4 Superleggera’ya bakıldığında, ya da incelendiğinde gözlerden kaçmayan yeni bir hedef görünüyor. Ferrari 458 Italia…
 

@@ -4,7 +4,7 @@ date: "2019-05-31T21:43:00.169Z"
 description: Ekstrem 911
 ---
 
-## Ekstrem 911
+### Ekstrem 911
 
 Gelen talepler üzerine 911’ler her sene daha fazla güç kazanıyor, hızlanıyor. Yalnızca 300 adet üretim sayısı ile sınırlı GT2 RS, daha hızlanan ve güçlenen markanın en yeni üyesi. Mevcut 911’lerin içerisinde en fazla teknoloji ile donatılan otomobilin her biri, üzerinde üretim sayısını gösteren plakası ile birlikte sahiplerinin garajına girecek. Yetkililere göre, otomobil iki noktada önemini gösteriyor. Bugüne kadar üretilenlerin içerisinde en iyisi olduğu belirtilen GT2 RS, gerek performans, gerekse yol tutuş ikilisi ile kendi klasındaki diğer otomobillere meydan okuyor. Klasikleşmiş tasarım ve kıdemli çizgilerini muhafaza etse de, bünyesinde aerodinamik yasaların isteği olan bir takım ayrıntıları barındırıyor. Ekstra ağırlığa neden olacak herhangi bir detaya rastlanmayan gövdede bagaj kapağı dahi fikslenmiş. Atmosferik motorlu GT3 RS modelinin şasisi modifiye edilerek GT2’ye uygun hale getirilmiş. Salıncak kollarına fazladan bağlantılar yerleştirilmesi ile sürücü tepkileri optimum hale getirilmiş. Otomobilin daha fazla hava alması için önde splitter bulunmuyor. Bunun yerine arka kanada ikinci bir dengeleyici kanat eklenmiş ki, down-force (yere basma gücü) GT3’le mukayese edilemeyecek şekilde artmış. Plastik malzemeden üretilen tek parça kanatlar (opsiyonel) görünüm, fonksiyonluk ve mekanik açıdan son derece başarılı bir uygulamayla gerçekleşmiş.
 

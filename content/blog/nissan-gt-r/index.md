@@ -4,7 +4,7 @@ date: "2019-05-26T17:17:00.169Z"
 description: Kaba gücün Japonca’sı
 ---
 
-## Kaba gücün Japonca’sı
+### Kaba gücün Japonca’sı
 
 Orta sınıftaki heyecan verici drift otomobillerini saymazsak hiçbir Japon üretici uzun süredir seri üretim bir süper otomobil ile caddelerde görülmedi. Bu durum Nissan’ın yeni GT R’si ile ortadan kalkıyor. Çünkü mühendisler rakip olarak 911 Turbo’yu gözlerine kestirmişler. Baş tasarımcı Nakamura video oyunlarındaki gibi kaslı ve mekanik görüntülü bir otomobil ortaya çıkartmak istediklerini söylüyor. Doğrusu Nisan GT R’de hedeflenen görüntüye ulaşılmış. Otomobil yeni teknolojik yapısıyla 911 Turbo’dan 0,4 saniye daha hızlı. (911 Turbo: 3,9 saniye). Otomobilin “Skyline GT R” olan eski adı artık “Skyline” ibaresi olmadan isimlendirilmiş. Şimdiye kadar uygulanan birtakım geleneksel yöntemleri ise bu otomobilde göremiyoruz. Zira otomobil tamamen yeni ve ayrı bir model.
 

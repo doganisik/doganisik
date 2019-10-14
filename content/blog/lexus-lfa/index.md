@@ -4,7 +4,7 @@ date: "2019-05-31T21:49:00.169Z"
 description: Sansasyonel silüet
 ---
 
-## Sansasyonel silüet
+### Sansasyonel silüet
 
 Kendi yaptığı otomobilin caddelerde görünmesine kadar geçen süre içerisinde, akla karayı seçme durumunda kalan tek kişi şüphesiz ki projenin başındaki isimdir. Yaşanan stres ile ustalığın üstünlüğü birbiriyle harmanlanıp karışınca, başmühendisin karşılaştığı zorlukları anlamak çok zor olmasa gerek. Nitekim, bir dizi teknik ve teknolojik kaygının sonunda ortaya çıkan otomobile baktığımızda duyduğumuz his sadece hayranlık oluyor. Bu seferki başyapıtın başmühendisi Japon Haruhiko Tanahashi. Lexus LFA onun elinden çıkma ve tüm detaylarda mühendisin alın terinden izler görmek mümkün.
 

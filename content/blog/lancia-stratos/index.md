@@ -4,7 +4,7 @@ date: "2019-06-02T20:04:00.169Z"
 description: Eski şampiyondan olağandışı geri dönüş
 ---
 
-## Eski şampiyondan olağandışı geri dönüş
+### Eski şampiyondan olağandışı geri dönüş
 
 1970 yılındaki Torino Otomobil Fuarı’nda ilk kez görüldüğünde her kafadan bir ses çıkmıştı. Bazıları “ilk ve son kez görüyoruz” diye fikirlerini açıklarken, bazıları ise STRATOS için “gerçek bir ralli otomobili” yorumunu yapıyordu. 1972’den 74’e kadar 492 adet üretilen otomobil, Lancia’nın Dünya Ralli Şampiyonası otomobili olarak 74, 75 ve 76 yıllarında üst üste üç kez ipi göğüsledi. Daha sonra 1981 yılına kadar çeşitli kullanıcılarla birlikte kayda değer sonuçlara imza atmaya devam etti. Nitekim o seneleri hatırlayanlar Audi Quattro ile olan rekabeti özellikle anımsarlar.
 

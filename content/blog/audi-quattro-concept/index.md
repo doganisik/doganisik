@@ -4,7 +4,7 @@ date: "2019-06-02T19:50:00.169Z"
 description: Duayen daha fazla bekletmeyecek!
 ---
 
-# Duayen daha fazla bekletmeyecek!
+### Duayen daha fazla bekletmeyecek!
 
 PQ 3010 kod adlı (Project Quattro, 30. Yıl, 2010) Quattro, Audi’nin 100. yılı için hazırlanmaya başlandığında, tasarımcılar tanıtım hedefi olarak 2009 yılındaki Pebble Beach organizasyonunu seçmişlerdi. Ancak, 30 yıl sonra yeniden yapılan otomobil bozulan ekonominin kurbanı olup gösteriye çıkamazken, yerine çevreci özelliği ile öne çıkan R8 E-tron için kutlama yapılıyordu. 30 sene sonranın Quattro’su selefine kıyasla çok başka bir yerde olmalıydı. Nitekim Audi’nin baş tasarımcısı Wolfgang Egger: “Quattro son derece modern bir otomobil. Safkan spor bir otomobil haline gelmesi için çok uğraştık. Detaylara harcadığımız zaman ve mühendisliği özellikle belirtmek isterim. Yeni doğan sportif coupe hafif, güçlü ve son derece arzu edilebilir hale geldi. Sadece karakteristik dört çeker sistemi ile değil, markanın içerisinde başka bir marka gibi algılanması ile de öne çıkacak.” diyerek merakları gideriyordu.
 
